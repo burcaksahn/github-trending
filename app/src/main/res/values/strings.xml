@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GITHUB TRENDING </string>
+    <string name="title_home">Trending Projects</string>
+    <string name="title_dashboard">Trending Developers</string>
+    <string name="title_notifications">Availables</string>
+
+
+    <string name="search">Please Enter What Language You Want...</string>
+    <string name="userName">User Name: </string>
+    <string name="name">Name Surname: </string>
+    <string name="sponsorURL">Sponsor URL: </string>
+    <string name="author">Author: </string>
+    <string name="description">Description: </string>
+    <string name="starts">Stars: </string>
+    <string name="forks">Forks: </string>
+    <string name="currentPeriodStars">Current Period Stars: </string>
+    <string name="language">Language: </string>
+    <string name="spokenLanguage">Spoken Language: </string>
+    <string name="languagesTw">Available Language</string>
+    <string name="spokenTw">Available Spoken Language</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
